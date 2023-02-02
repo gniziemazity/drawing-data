@@ -1,31 +1,9 @@
-# machine-learning-course
+# Drawing data used in my machine learning course
+Course Link: https://www.youtube.com/playlist?list=PLB0Tybl0UNfYe9aJXfWw-Dw_4VnFrqRC4
 
-This code is part of my machine learning course and is divided in several packages (one per lesson).
+I will update this data from time to time [Last Update: 6.12.2022, when I recorded Phase 1 of the course]
 
+You need to add the data to each package you use to follow along (P1 doesn't need it).:
+https://github.com/gniziemazity/ml-course 
 
-# The 'data' directory
-I will update it from time to time as long as I get samples.
-You need to add the data to each package you use to follow along (first one doesn't require it).
-The data you download is in raw form but is automatically processed when you install a package.
-
-# Installing a package
-
-1. Open the terminal and go to the package package you want to use.
-For example: cd data_collection_lesson_package
-
-2. Go inside the node directory within that package.
-Command: cd node
-
-3. Install the package:
-Command: npm install
-
-# Tools
-
-1. I code with 'Visual Studio Code':
-https://code.visualstudio.com
-
-2. I use 'Google Chrome' for front-end testing:
-https://www.google.com/chrome
-
-3. I use 'NodeJs' for back-end testing:
-https://nodejs.org/en
+The data you download here is in raw form and will be automatically processed when you install a package.
