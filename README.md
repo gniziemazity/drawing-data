@@ -6,7 +6,7 @@ I will update this data from time to time:
 
 First Update: 6.12.2022, when I recorded Phase 1 of the course
 
-Last Update: 15.5.2023, when I recorded Phase 2 of the course
+Last Update: 15.5.2023, when I recorded Phase 2 of the course  
 
 
 You need to add the data to each package you use to follow along (P1 doesn't need it):
